@@ -1,7 +1,7 @@
 {
   "name": "blog_phoenix",
   "scripts": {
-    "postdeploy": "mix ecto.migrate"
+    "postdeploy": "mix ecto.create"
   },
   "env": {
     "SECRET_KEY_BASE": {

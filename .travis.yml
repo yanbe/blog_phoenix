@@ -1,0 +1,5 @@
+language: elixiir
+elixir:
+  - 1.1.0
+otp_release:
+  - 18.0

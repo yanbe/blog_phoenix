@@ -9,7 +9,6 @@
     }
   },
   "addons": [
-    "heroku-postgresql"
   ],
   "buildpacks": [
     {

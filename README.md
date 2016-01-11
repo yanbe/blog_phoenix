@@ -1,5 +1,7 @@
 # BlogPhoenix
 
+[![Build Status](https://travis-ci.org/yanbe/blog_phoenix.svg)](https://travis-ci.org/yanbe/blog_phoenix)
+
 To start your Phoenix app:
 
   1. Install dependencies with `mix deps.get`
